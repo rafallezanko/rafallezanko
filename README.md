@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafallezanko
+- 👋 Hi, I’m @rafallezanko.
 - 👀 I’m interested in Java or Kotlin in backend.
 - 🌱 I’m currently learning Kotlin and Flutter (Dart).
 - 💞️ I’m looking to collaborate on some new project.
